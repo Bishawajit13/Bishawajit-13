@@ -47,9 +47,12 @@ A project highlighting various scientific data visualizations created with Table
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Post 1 Title](https://greenaligned.com/post1)
-- [Post 2 Title](https://greenaligned.com/post2)
-- [Post 3 Title](https://greenaligned.com/post3)
+- [7 Innovative Technologies Propelling the Decarbonization Revolution](https://greenaligned.com/7-innovative-technologies-propelling-the-decarbonization-revolution/)
+- [15 Ways to Save Energy and Lower Your Bills](https://greenaligned.com/15-ways-to-save-energy-and-lower-your-bills/)
+- [Pros and Cons of Solar Farms: A Comprehensive Review](https://greenaligned.com/pros-and-cons-of-solar-farms-a-comprehensive-review/)
+- [Wood Fuels for Heating: Advantages, Disadvantages, and Environmental Impact](https://greenaligned.com/wood-fuels-for-heating-advantages-disadvantages-and-environmental-impact/)
+- [The Future of Energy: Exploring Renewable Energy Sources](https://greenaligned.com/the-future-of-energy-exploring-renewable-energy-sources/)
+- [The Role of Green Infrastructure in Advancing Renewable Energy](https://greenaligned.com/the-role-of-green-infrastructure-in-advancing-renewable-energy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
