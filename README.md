@@ -39,8 +39,7 @@ A project highlighting various scientific data visualizations created with Table
 
 - **Website**: [Green Aligned](https://greenaligned.com/)
 - **LinkedIn**: [Bishawajit Chakraborty](https://www.linkedin.com/in/bishawajit-chakraborty-914259204/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGUAhOGSzSbq5iWln7zAq6g%3D%3D)
-- **Email**: [bishawajit132077@gmail.com](mailto:bishawajit132077@gmail.com
-
+- **Email**: [bishawajit132077@gmail.com]
 ## GitHub Stats
 
 ![Bishawajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
