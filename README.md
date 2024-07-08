@@ -38,7 +38,7 @@ A project highlighting various scientific data visualizations created with Table
 ## Get in Touch
 
 - **Website**: [Green Aligned](https://greenaligned.com/)
-- **LinkedIn**: [Bishawajit Chakraborty](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Bishawajit Chakraborty]([https://www.linkedin.com/in/bishawajit-chakraborty-914259204/]
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - **Email**: [youremail@example.com](mailto:youremail@example.com)
 
